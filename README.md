@@ -28,6 +28,6 @@ Data Wrangling
 Exploratory Data Analysis (EDA)
 Examination of central tendency and spread
 Data visualizations
-#Tools
+# Tools
 Python, libraries: numpy, pandas, matplotlib, seaborn, warnings
 Jupyter Lab
